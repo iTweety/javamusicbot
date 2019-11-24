@@ -1,5 +1,6 @@
-token=NjQ4MjAxNDM5MTgwNjE5ODE2.Xdq0CA.xprZ3UbfcYpudPuya8MJtkFm8Cc
 owner=636992844074188841
 prefix=4u
+game=Bot Music 
 stayinchannel=true
-songinstatus=true
+songinstatus=false
+token=NjQ4MjAxNDM5MTgwNjE5ODE2.Xdq0CA.xprZ3UbfcYpudPuya8MJtkFm8Cc
